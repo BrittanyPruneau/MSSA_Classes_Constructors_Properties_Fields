@@ -1,0 +1,13 @@
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\bin\Debug\netcoreapp3.1\ClassesHW1.exe
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\bin\Debug\netcoreapp3.1\ClassesHW1.deps.json
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\bin\Debug\netcoreapp3.1\ClassesHW1.runtimeconfig.json
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\bin\Debug\netcoreapp3.1\ClassesHW1.runtimeconfig.dev.json
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\bin\Debug\netcoreapp3.1\ClassesHW1.dll
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\bin\Debug\netcoreapp3.1\ClassesHW1.pdb
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.csprojAssemblyReference.cache
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.AssemblyInfoInputs.cache
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.AssemblyInfo.cs
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.csproj.CoreCompileInputs.cache
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.dll
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.pdb
+C:\Users\prune\VisualStudioMSSA\ClassesConstructorsPropertiesAndFields\ClassesHW1\ClassesHW1\obj\Debug\netcoreapp3.1\ClassesHW1.genruntimeconfig.cache
